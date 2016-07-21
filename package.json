@@ -1,6 +1,6 @@
 {
   "name": "json-easy-merge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JSON merger. (WIP)",
   "main": "lib/index.js",
   "files": [
